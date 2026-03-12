@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@emotion/is-prop-valid": "latest",
+    "@radix-ui/react-slot": "latest",
+    "@radix-ui/react-toast": "latest",
+    "@radix-ui/react-tooltip": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.454.0",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "postcss": "^8.5",
+    "typescript": "^5"
+  }
+}
